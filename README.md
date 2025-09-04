@@ -1,10 +1,10 @@
 # HEY THERE I'M HYPERNOVA
-━━━━━━━━━━━━━━━━━━━━━━
-# TECH
-# I'm always checking out new tech, 
-# coding languages, 
-# and ideas to get better at what I do. 
-# Here's some stuff I know
+
+TECH
+I'm always checking out new tech, 
+coding languages, 
+and ideas to get better at what I do. 
+Here's some stuff I know
 ━
 > Lua
 > Luau

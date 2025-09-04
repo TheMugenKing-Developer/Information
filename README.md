@@ -1,11 +1,9 @@
 # HEY THERE I'M HYPERNOVA
 
-TECH
 I'm always checking out new tech, 
 coding languages, 
 and ideas to get better at what I do. 
 Here's some stuff I know
-━
 > Lua
 > Luau
 > Python
@@ -15,4 +13,3 @@ Here's some stuff I know
 > Html
 > Game Development (Soon, Still Learning)
 > That All!:D
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
